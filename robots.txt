@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://harshp-zigs.github.io/enterprise-openai-integration/sitemap.xml
